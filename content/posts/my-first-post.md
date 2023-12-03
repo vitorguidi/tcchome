@@ -1,7 +1,7 @@
 +++
 title = 'Trabalho de conclusão de curso - MAC0499'
 date = 2023-12-03T18:53:53-03:00
-draft = true
+draft = false
 +++
 
 # Provendo alta disponibilidade ao sistema SPIRA com Kubernetes
@@ -12,7 +12,7 @@ Página para a disciplina MAC0499 - Trabalho de formatura supervisionado
 
 **Orientador:** Prof. Dr. Alfredo Goldman
 
-**Co-Orientador:** Renato Cordeiro Ferreira
+**Co-Orientador:** Me. Renato Cordeiro Ferreira
 
 ## Resumo
 
