@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MAC0499</title>
-    <link>https://example.org/posts/</link>
+    <link>https://linux.ime.usp.br/~vitorguidi/posts/</link>
     <description>Recent content in Posts on MAC0499</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Dec 2023 18:53:53 -0300</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://linux.ime.usp.br/~vitorguidi/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trabalho de conclusão de curso - MAC0499</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://linux.ime.usp.br/~vitorguidi/posts/my-first-post/</link>
       <pubDate>Sun, 03 Dec 2023 18:53:53 -0300</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://linux.ime.usp.br/~vitorguidi/posts/my-first-post/</guid>
       <description>Provendo alta disponibilidade ao sistema SPIRA com Kubernetes Página para a disciplina MAC0499 - Trabalho de formatura supervisionado
 Aluno: Vitor Guidi
 Orientador: Prof. Dr. Alfredo Goldman
-Co-Orientador: Renato Cordeiro Ferreira
+Co-Orientador: Me. Renato Cordeiro Ferreira
 Resumo O SPIRA é um projeto de pesquisa na Universidade de São Paulo, cujo propósito é detectar insuficiência resporatória por meio de análise de voz, utilizando aprendizado de máquina. Em um projeto anterior, Victor Tamae desenvolveu um conjunto de microsserviços para possibilitar que o SPIRA seja utilizado em hospitais.</description>
     </item>
   </channel>
