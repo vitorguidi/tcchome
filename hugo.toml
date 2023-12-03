@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://linux.ime.usp.br/~vitorguidi/'
 languageCode = 'en-us'
 title = 'MAC0499'
 theme = 'ananke'
